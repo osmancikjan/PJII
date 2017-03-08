@@ -1,0 +1,5 @@
+c:\users\jan\documents\visual studio 2015\Projects\PripravaNaTest\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2015\Projects\PripravaNaTest\ClassLibrary\bin\Debug\ClassLibrary.dll
+c:\users\jan\documents\visual studio 2015\Projects\PripravaNaTest\ClassLibrary\bin\Debug\ClassLibrary.pdb
+c:\users\jan\documents\visual studio 2015\Projects\PripravaNaTest\ClassLibrary\obj\Debug\ClassLibrary.dll
+c:\users\jan\documents\visual studio 2015\Projects\PripravaNaTest\ClassLibrary\obj\Debug\ClassLibrary.pdb
